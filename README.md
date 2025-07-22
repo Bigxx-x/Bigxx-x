@@ -1,4 +1,7 @@
-👉🏻 [main](https://github.com/K-ANT0) <img width="100" src="https://komarev.com/ghpvc/?username=kant&color=b95f74" alt="views count">
+ 👉🏻 [main](https://github.com/K-ANT0)   
+ <img width="130" src="https://komarev.com/ghpvc/?username=kant&color=b95f74" alt="views count"> 
+
+[𝙰𝚝𝚊𝚋𝚘𝚘𝚔](https://k-ant.atabook.org/)
 
 ![](https://files.catbox.moe/c6djtm.png)
 ![](https://files.catbox.moe/g3s55y.png)
