@@ -1,4 +1,11 @@
-## Hi there 👋
+👉🏻 [main](https://github.com/K-ANT0) <img width="100" src="https://komarev.com/ghpvc/?username=kant&color=b95f74" alt="views count">
+
+![](https://files.catbox.moe/c6djtm.png)
+![](https://files.catbox.moe/g3s55y.png)
+![](https://files.catbox.moe/y3xj7j.png)
+![](https://files.catbox.moe/ejdbtp.png)
+![](https://files.catbox.moe/w7ytpy.png)
+![](https://files.catbox.moe/wg8szh.png)
 
 <!--
 **Bigxx-x/Bigxx-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
